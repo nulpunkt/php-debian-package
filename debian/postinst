@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Do what you need to do after install (init.d start)
+
+exit 0

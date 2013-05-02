@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# What needs to be done after remove?
+
+exit 0

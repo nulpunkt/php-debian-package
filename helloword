@@ -1,0 +1,3 @@
+#!/usr/bin/php
+<?php
+echo "hello word 1".PHP_EOL;

@@ -1,0 +1,10 @@
+Source: helloword
+Package: helloword
+Version: VERSION
+Section: devel
+Priority: optional
+Architecture: ARCH
+Depends: php5-cli
+Maintainer: Jesper Skovgård Nielsen <nulpunkt@gmail.com>
+Description: Say helloword
+ Package which shows how to pack a small php program as an deb package.
